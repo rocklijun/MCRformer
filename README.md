@@ -3,7 +3,7 @@
 This repo is the official implementation of "MCRformer: Morphological Constraint Reticular Transformer for 3D Medical Image Segmentation" as well as the follow-ups.
 
 The code has been released on CodeOcean (https://codeocean.com/capsule/4613751/tree/v1).
-
+The official MCRformer implementation is available [here](https://codeocean.com/capsule/4613751/tree/v1).
 
 ## Reference
 
